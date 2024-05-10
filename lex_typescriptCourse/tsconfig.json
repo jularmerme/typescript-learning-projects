@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "watch": true,
+    "target": "es6",
+    "outDir": "dist",
+    "experimentalDecorators": true,
+  },
+  "files": [
+    "first.ts",
+    "datatypes.ts",
+    "datatypes_tryout.ts",
+    "basicconstructor_exercise.ts",
+    "functions.ts",
+    "arrow_function.ts",
+    "function_tryout.ts"
+  ]
+}
