@@ -16,6 +16,6 @@ lastName = 'Milhouse';
 
 console.log(found);
 console.log(`The grade is ` + grade);
-console.log(`Hi ` + firstName + ` ` + lastName);
+console.log(`Using old school way: Hi ` + firstName + ` ` + lastName);
 
-console.log(`Hi ${firstName} ${lastName}`);
+console.log(`Using Template Literals: Hi ${firstName} ${lastName}`);
