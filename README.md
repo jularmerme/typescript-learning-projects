@@ -1,7 +1,7 @@
 # Typescript
 
 <figure>
-  <img src="/assets/images/typescript-logo.png" alt="typescript_logo" width="100" height="50">
+  <img src="/assets/images/typescript-logo.png" alt="typescript_logo" width="200" height="100">
   <figcaption>Typescript Logo</figcaption>
 </figure>
 
